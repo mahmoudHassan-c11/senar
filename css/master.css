@@ -45,7 +45,11 @@ body {
   right: 10px;
   width: 60px;
   height: 60px;
-  background-color: var(--secondColor);
+  background-image: linear-gradient(
+    to left,
+    var(--secondColor),
+    var(--mainColor)
+  );
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
