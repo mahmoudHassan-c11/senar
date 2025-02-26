@@ -1,5 +1,6 @@
 const linksMenu = document.querySelector(".links-menu");
 const linksList = document.querySelector(".links-menu ul");
+const linksListLi = document.querySelector(".links-menu ul li");
 const scrollElement = document.querySelector(".scroll");
 
 linksMenu.addEventListener("click", () => {
