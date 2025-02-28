@@ -221,7 +221,26 @@ img.logo {
 .header .links-menu ul li a:hover {
   margin-left: 10px;
 }
-
+.btns button {
+  cursor: pointer;
+  border: none;
+  background-color: var(--mainColor);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+}
+.btns button:hover {
+  background-color: var(--secondColor);
+}
 @media (max-width: 991px) {
   .header .links {
     display: none;
