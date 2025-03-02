@@ -127,8 +127,8 @@ export const translationsmain = {
   en: {
     links: ["Our Services", "About Us", "Contact Us"],
     titlemain: "Welcome",
-    featureTitle: "Why Senar Logistics Trading & Investment Co. Ltd.",
-    name: "Sennar Logistics Trading & Investment Co. Ltd.",
+    featureTitle: "Why Senar Logistic Trading & Investment Co. Ltd.",
+    name: "Sennar Logistic Trading & Investment Co. Ltd.",
     description:
       "A company specialized in importing, exporting, and trading electrical appliances, wires and cables, lighting, building materials, and general contracting. We work to provide the best products and services with high quality and competitive prices",
     aboutText:
@@ -167,14 +167,14 @@ export const translationsService = {
     title: "Company Service",
     description: "Sennar Logistic Trading & Investment Co. Ltd.",
     servicesHeading: "Our Services",
-    aboutHeading: "Services of Senar Logistics Investment and Trade Co. Ltd.",
+    aboutHeading: "Services of Senar Logistic Investment and Trade Co. Ltd.",
     aboutText:
-      "We at Senar Logistics Investment & Trade Co. Ltd. provide integrated solutions in the field of import and export, providing high-quality products from various global markets, while ensuring smooth and reliable procedures including supply, customs clearance, transportation, and distribution. Our services include importing and exporting meat, agricultural fertilizers, and agricultural production inputs, in addition to a wide range of other products that meet the needs of our customers in various sectors. We work through a strong network of relationships and extensive experience to ensure providing the best commercial solutions according to the highest international standards.",
+      "We at Senar Logistic Investment & Trade Co. Ltd. provide integrated solutions in the field of import and export, providing high-quality products from various global markets, while ensuring smooth and reliable procedures including supply, customs clearance, transportation, and distribution. Our services include importing and exporting meat, agricultural fertilizers, and agricultural production inputs, in addition to a wide range of other products that meet the needs of our customers in various sectors. We work through a strong network of relationships and extensive experience to ensure providing the best commercial solutions according to the highest international standards.",
 
     uniqu: "What distinguishes us…",
     uniqueHeading: "Get to know us more",
     uniqueText:
-      "Senar Logistics Trading and Investment Co. Ltd. is a Sudanese company specialized in importing, exporting, trading electrical appliances, wires and cables, lighting, building materials, and general contracting. We work to provide the best products and services with high quality and competitive prices.",
+      "Senar Logistic Trading and Investment Co. Ltd. is a Sudanese company specialized in importing, exporting, trading electrical appliances, wires and cables, lighting, building materials, and general contracting. We work to provide the best products and services with high quality and competitive prices.",
     contactHeading: "Contact Us",
     sendMessage: "Send",
     namePlaceholder: "Name",
@@ -186,7 +186,7 @@ export const translationsService = {
 
     visionTitle: "Our Vision",
     visionText:
-      "The vision of (Sennar Logistics Trading & Investment Co. Ltd.) is driven by ambitions of leadership in the fields of import and export, based on its core principles:",
+      "The vision of (Sennar Logistic Trading & Investment Co. Ltd.) is driven by ambitions of leadership in the fields of import and export, based on its core principles:",
     visionList: [
       "Precise planning",
       "Conscious management",
@@ -197,7 +197,7 @@ export const translationsService = {
     ],
     missionTitle: "Our Mission",
     missionText:
-      "(Sennar Logistics Trading & Investment Co. Ltd.) believes in its ability to achieve a distinguished presence in the construction and building markets by applying unique standards of quality, professionalism, credibility, discipline, innovation, speed, and developing work teams, management, and effective communication with clients to ensure the company's growth and competitiveness in both the short and long term.",
+      "(Sennar Logistic Trading & Investment Co. Ltd.) believes in its ability to achieve a distinguished presence in the construction and building markets by applying unique standards of quality, professionalism, credibility, discipline, innovation, speed, and developing work teams, management, and effective communication with clients to ensure the company's growth and competitiveness in both the short and long term.",
   },
   ar: {
     title: "خدمات الشركة",
